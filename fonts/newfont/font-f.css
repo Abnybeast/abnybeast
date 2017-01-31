@@ -1,0 +1,18 @@
+@font-face {
+    font-family:'PlayfairDisplay-Black'; /* Имя шрифта */
+    src: url(fonts/newfont/Playfair_Display/PlayfairDisplay-Black.ttf); /* Путь к файлу со шрифтом */
+    
+    font-family:'PlayfairDisplay-Regula'; /* Имя шрифта */
+    src: url(fonts/newfont/Playfair_Display/PlayfairDisplay-Regular.ttf); /* Путь к файлу со шрифтом */
+    
+    font-family:'PlayfairDisplay-Bold'; /* Имя шрифта */
+    src: url(fonts/newfont/Playfair_Display/PlayfairDisplay-Bold.ttf); /* Путь к файлу со шрифтом */
+   	
+   	font-family:'PlayfairDisplay-Italic'; /* Имя шрифта */
+    src: url(fonts/newfont/Playfair_Display/PlayfairDisplay-Italic.ttf); /* Путь к файлу со шрифтом */
+   	
+   	font-family:'Ubuntu-Light'; /* Имя шрифта */
+    src: url(fonts/newfont/Ubuntu/Ubuntu-Light.ttf); /* Путь к файлу со шрифтом */
+   	
+
+   }

@@ -1,0 +1,209 @@
+body {
+  background: #ffffff;
+}
+.navbar-brand {
+  background: url(../img/brand.png) no-repeat 50% 100%;
+  height: 23px;
+  width: 119px;
+}
+.banner-img {
+  background: url(../img/banner.png) no-repeat 50% 50% / cover;
+  height: 509px;
+}
+.navbar {
+  background: transparent;
+  border: 0;
+}
+.navbar .navbar-nav li a {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 15px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 400;
+  line-height: 24px;
+  /* Приближение из-за подстановки шрифтов */
+  text-align: center;
+  text-transform: uppercase;
+  padding-right: 45px;
+}
+.photo-block h5 {
+  margin-top: 79px;
+  font-family: 'Ubuntu-Light', sans-serif;
+  color: #b4ad9e;
+  font-size: 14px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+}
+.photo-block h1 {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 30px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 400;
+  text-align: left;
+}
+.photo-block p {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 14px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 400;
+  line-height: 24px;
+  /* Приближение из-за подстановки шрифтов */
+  text-align: left;
+}
+.photo-block .leavecom p {
+  margin-top: 32px;
+  font-family: 'Ubuntu-Light', sans-serif;
+  color: #b4ad9e;
+  font-size: 14px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+}
+.img-1 {
+  background: url(../img/img-1.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.ls-1 .img-category,
+.ls-2 .img-category,
+.ls-3 .img-category,
+.ls-4 .img-category,
+.ls-5 .img-category,
+.ls-6 .img-category {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #b4ad9e;
+  font-size: 14px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+  margin-top: 22px;
+}
+.ls-1 .img-header,
+.ls-2 .img-header,
+.ls-3 .img-header,
+.ls-4 .img-header,
+.ls-5 .img-header,
+.ls-6 .img-header {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 30px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 400;
+  text-align: left;
+}
+.ls-1 .img-text,
+.ls-2 .img-text,
+.ls-3 .img-text,
+.ls-4 .img-text,
+.ls-5 .img-text,
+.ls-6 .img-text {
+  margin-top: 14px;
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 14px;
+  /* Приближение из-за подстановки шрифтов */
+  font-weight: 400;
+  line-height: 24px;
+  /* Приближение из-за подстановки шрифтов */
+  text-align: left;
+}
+.img-2 {
+  background: url(../img/img-2.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.img-3 {
+  background: url(../img/img-3.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.img-4 {
+  background: url(../img/img-4.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.form-hd {
+  font-family: 'PlayfairDisplay-Regula';
+  color: #333333;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+}
+.form {
+  background: #f0f0f0 50% 50% / cover;
+  margin-top: 100px;
+  min-height: 250px;
+}
+.form h1 {
+  margin-top: 63px;
+}
+.img-5 {
+  background: url(../img/img-5.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.img-6 {
+  background: url(../img/img-6.png) no-repeat 50% 50% / cover;
+  margin-top: 100px;
+  height: 279px;
+}
+.btn-mid {
+  margin-top: 100px;
+  border-width: 1px;
+  border-color: #626262;
+  border-style: solid;
+  width: 162px;
+  height: 45px;
+  border-radius: 0;
+  font-family: 'PlayfairDisplay-Regula';
+  color: #626262;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.btn-mid:hover {
+  margin-top: 100px;
+  border-width: 1px;
+  border-style: solid;
+  width: 162px;
+  height: 45px;
+  border-radius: 0;
+  font-family: 'PlayfairDisplay-Regula';
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  background: transparent;
+}
+.footer {
+  background: #f0f0f0 50% 50% / cover;
+  min-height: 87px;
+  margin-top: 100px;
+}
+.ft-nav {
+  margin-top: 50px;
+}
+.ft-nav a {
+  padding-left: 20px;
+  font-family: 'PlayfairDisplay-Regula';
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.ft-nav-2 {
+  margin-top: 50px;
+}
+.ft-nav-2 a {
+  padding-left: 20px;
+  font-family: 'PlayfairDisplay-Regula';
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
